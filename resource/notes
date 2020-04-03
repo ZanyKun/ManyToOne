@@ -1,0 +1,10 @@
+@Entity: Entity and Value Object
+@Embedded and Embeddable
+SessionFactory
+hibernate-properties.xml
+@GeneratedValue
+@Id
+@AttributeOverrides
+@Column
+@Table
+Lazy Loading (Proxy) and Eager Loading
